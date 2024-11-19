@@ -26,7 +26,7 @@ A simple and responsive login interface designed for gaming applications. This U
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/game-login-ui.git
+   git clone [https://github.com/yourusername/game-login-ui.git](https://github.com/MrOLU24/game-login-interface)
 Navigate to the project directory:
 
 bash
@@ -47,19 +47,9 @@ Logo and Background:
 Replace the logo.png in the assets/ folder with your game logo.
 Update the background image or color in the style.css file under the .background class.
 Color Scheme:
-
-Modify the CSS variables at the top of style.css to match your game's branding:
-css
-Copy code
-:root {
-    --primary-color: #ff4500;
-    --secondary-color: #1e1e1e;
-    --text-color: #ffffff;
-}
 Form Fields:
 
 Add or remove fields in the index.html as required.
-Animations:
 
 Use CSS transitions or JavaScript to add animations to buttons or input fields.
 Preview
